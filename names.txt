@@ -1,2 +1,3 @@
-boss,9079183159,Owen,Jack
+role,NetID,LastName,FirstName
+boss,jhowen2,Owen,Jack
 employee,gbruhn,Bruhn,Gretchen
